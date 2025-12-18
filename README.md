@@ -1,4 +1,4 @@
-# Fe_alloy_phaseshift
+# HEA Baye-MOO
 
 Install all relevant libraries.
 I used python 3.10. You should be able to install all relavant packages using:
